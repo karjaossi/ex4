@@ -1,0 +1,30 @@
+.header {
+  display: block;
+  font-size: 20px;
+  background: #00d9ff;
+  margin: 0;
+}
+
+.menu {
+  display: block;
+  font-size: 20px;
+  background: #ed9500;
+  margin: 0;
+}
+
+.content {
+  display: block;
+  font-size: 20px;
+  background: rgb(236, 236, 236);
+  margin: 0;
+}
+
+.footer {
+  display: block;
+  font-size: 20px;
+  background: #5c5c5c;
+  margin: 0;
+}
+body p {
+  margin: 0px;
+}
